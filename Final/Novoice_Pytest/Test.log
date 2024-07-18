@@ -1,0 +1,16 @@
+2023-11-08 21:08:17,194: INFO: Novoice_Pytest.testLog: This is for info
+2023-11-08 21:08:17,194: WARNING: Novoice_Pytest.testLog: This is for warnings
+2023-11-08 21:08:17,194: ERROR: Novoice_Pytest.testLog: This is for error
+2023-11-08 21:08:17,194: CRITICAL: Novoice_Pytest.testLog: This is for critical
+2023-11-08 21:29:27,674: INFO: test_EditProfile: Rahul
+2023-11-08 21:29:27,674: WARNING: test_EditProfile: Shetty
+2023-11-08 21:29:27,674: INFO: test_EditProfile: This is for info
+2023-11-08 21:29:27,674: WARNING: test_EditProfile: This is for warnings
+2023-11-08 21:29:27,674: ERROR: test_EditProfile: This is for error
+2023-11-08 21:29:27,674: CRITICAL: test_EditProfile: This is for critical
+2023-11-08 22:50:27,285: INFO: test_EditProfile: Rahul
+2023-11-08 22:50:27,296: WARNING: test_EditProfile: Shetty
+2023-11-08 22:50:27,296: INFO: test_EditProfile: This is for info
+2023-11-08 22:50:27,296: WARNING: test_EditProfile: This is for warnings
+2023-11-08 22:50:27,296: ERROR: test_EditProfile: This is for error
+2023-11-08 22:50:27,296: CRITICAL: test_EditProfile: This is for critical

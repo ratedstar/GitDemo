@@ -1,0 +1,6 @@
+import response
+import json
+import jsonpath
+
+url = "https://reqres.in/api/users?page=2"
+

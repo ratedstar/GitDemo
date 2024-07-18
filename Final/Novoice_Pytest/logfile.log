@@ -1,0 +1,5 @@
+   2023-11-08 21:00:22,749 :CRITICAL : Novoice_Pytest.New_Log :Critical issue
+2023-11-08 21:01:06,292 :INFO : Novoice_Pytest.New_Log :Information statement
+2023-11-08 21:01:06,292 :WARNING : Novoice_Pytest.New_Log :Something is in warning mode
+2023-11-08 21:01:06,292 :ERROR : Novoice_Pytest.New_Log :A Major error has happend
+2023-11-08 21:01:06,292 :CRITICAL : Novoice_Pytest.New_Log :Critical issue

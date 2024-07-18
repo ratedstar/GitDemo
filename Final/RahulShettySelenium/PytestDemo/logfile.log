@@ -1,0 +1,19 @@
+2024-05-15 12:00:26,248 :INFO :RahulShettySelenium.PytestDemo.test_logging :Information statement
+2024-05-15 12:00:26,248 :WARNING :RahulShettySelenium.PytestDemo.test_logging :Credit card balance is low
+2024-05-15 12:00:26,248 :ERROR :RahulShettySelenium.PytestDemo.test_logging :Assert got failed
+2024-05-15 12:00:26,248 :CRITICAL :RahulShettySelenium.PytestDemo.test_logging :critical issue
+2024-05-15 12:00:59,024 :DEBUG :RahulShettySelenium.PytestDemo.test_logging :A debug statement is executed
+2024-05-15 12:00:59,025 :INFO :RahulShettySelenium.PytestDemo.test_logging :Information statement
+2024-05-15 12:00:59,025 :WARNING :RahulShettySelenium.PytestDemo.test_logging :Credit card balance is low
+2024-05-15 12:00:59,025 :ERROR :RahulShettySelenium.PytestDemo.test_logging :Assert got failed
+2024-05-15 12:00:59,025 :CRITICAL :RahulShettySelenium.PytestDemo.test_logging :critical issue
+2024-05-15 12:02:29,824 :CRITICAL :RahulShettySelenium.PytestDemo.test_logging :critical issue
+2024-05-15 18:05:25,162:INFO:test_editprofile:['Kaamesh', 'indraganti', 'kaamesh.test@test.com']
+2024-05-15 18:05:25,163:INFO:test_editprofile:Kaamesh
+2024-05-15 18:05:25,163:INFO:test_editprofile:indraganti
+2024-05-15 18:05:25,163:INFO:test_editprofile:kaamesh.test@test.com
+2024-05-15 18:07:52,696:INFO:test_editprofile:['Kaamesh', 'indraganti', 'kaamesh.test@test.com']
+2024-05-15 18:07:52,697:INFO:test_editprofile:Kaamesh
+2024-05-15 18:07:52,697:INFO:test_editprofile:indraganti
+2024-05-15 18:07:52,697:INFO:test_editprofile:kaamesh.test@test.com
+2024-05-15 18:07:52,707 :CRITICAL :RahulShettySelenium.PytestDemo.test_logging :critical issue
